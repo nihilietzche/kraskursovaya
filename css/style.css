@@ -1,0 +1,21 @@
+.form1 { 
+    background: #7FFFD4;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+	position: absolute;
+	left: 400px;
+	top: 420px;
+   }
+
+.form2{
+	background: #CD5C5C;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+	position: absolute;
+	left: 1200px;
+	top: 420px;
+}
