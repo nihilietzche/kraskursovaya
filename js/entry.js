@@ -8,6 +8,6 @@ request({
     'password': 'fqw',
     'sendImmediately': false
   }
-}, function(error, response, body) {
+}, function b(error, response, body) {
   console.log(body);
 });
